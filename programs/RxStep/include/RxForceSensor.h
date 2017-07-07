@@ -8,7 +8,7 @@ class RxForceSensor: public QObject
 {
 	Q_OBJECT
 public:
-	RxForceSensor (QlfTUB* tub, double a, double b);
+	RxForceSensor (QlfTUB* tub, double a, double b, double c, double d);
 	
 	/**
 	 * @brief Провести измерение
@@ -36,6 +36,8 @@ private:
 	QlfTUB* m_tub;
 	double m_a;
 	double m_b;
+        double m_c;
+	double m_d;
 };
 
 #endif /*RXFORCESENSOR_H_*/

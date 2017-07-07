@@ -69,8 +69,13 @@ int main(int argc, char *argv[])
 	
 	const double tub_coeff_a = globalSettings.value("TUB_COEFF_A").toDouble();
 	const double tub_coeff_b = globalSettings.value("TUB_COEFF_B").toDouble();
-	qDebug() << "TUB_COEFF_A:" << tub_coeff_a
-		<<  "TUB_COEFF_B:" << tub_coeff_b << "Force = A*code + B";
+	const double tub_coeff_c = globalSettings.value("TUB_COEFF_C").toDouble();
+	const double tub_coeff_d = globalSettings.value("TUB_COEFF_D").toDouble();
+        qDebug() << "TUB_COEFF_A:" << tub_coeff_a
+		 << "TUB_COEFF_B:" << tub_coeff_b
+		 << "TUB_COEFF_C:" << tub_coeff_c
+		 << "TUB_COEFF_D:" << tub_coeff_d 
+		 << "Force = A*code^3 + B*code^2 + C*code + D";
 	
 	QString portSMD = "";
 	QString portTUB = "";
@@ -196,7 +201,7 @@ int main(int argc, char *argv[])
 	expSettings.setValue("LoadingStepDef", deformation);
 	//expSettings.setValue("LoadingStepStress", relaxTime);
 
-	RxForceSensor forceSensor(&tub, tub_coeff_a, tub_coeff_b);
+	RxForceSensor forceSensor(&tub, tub_coeff_a, tub_coeff_b, tub_coeff_c, tub_coeff_d);
 	//RxStrainStep strainStep;
 	//RxExperiment experiment;
 	using boost::bind;

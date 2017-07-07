@@ -1,8 +1,8 @@
 #include "RxForceSensor.h"
 #include <QtDebug>
 
-RxForceSensor::RxForceSensor (QlfTUB* tub, double a, double b)
-	: m_setZero (false), m_zeroForce (0.0), m_tub(tub), m_a(a), m_b(b)
+RxForceSensor::RxForceSensor (QlfTUB* tub, double a, double b, double c, double d)
+	: m_setZero (false), m_zeroForce (0.0), m_tub(tub), m_a(a), m_b(b), m_c(c), m_d(d)
 {
 	QObject::connect (
 			tub,
@@ -19,7 +19,7 @@ double RxForceSensor::measure()
 
 double RxForceSensor::calcForce(int code)
 {	
-	double force = m_a * code + m_b;
+	double force = m_a*code*code*code + m_b*code*code + m_c*code + m_d;
 	if (m_setZero)
 	{
 		m_setZero = false;
