@@ -1,0 +1,63 @@
+PCBNEW-LibDoc----V1  Срд 07 Июл 2010 13:52:09
+#
+$MODULE PIN_ARRAY_7x2
+Li PIN_ARRAY_7x2
+Cd Double rangee de contacts 2 x 8 pins
+Kw CONN
+$EndMODULE
+#
+$MODULE CONN_USB-B
+Li CONN_USB-B
+Cd Connecteur USB type B
+Kw USB
+$EndMODULE
+#
+$MODULE 1pin_SMD
+Li 1pin_SMD
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+$EndMODULE
+#
+$MODULE 1pin_SMD_B
+Li 1pin_SMD_B
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+$EndMODULE
+#
+$MODULE con-yamaichi-cf-CF050P2
+Li con-yamaichi-cf-CF050P2
+Cd CF 050 P2 - * 03 - * 0 - DS
+Kw CF 050 P2 - * 03 - * 0 - DS
+$EndMODULE
+#
+$MODULE PIN_ARRAY_4x1
+Li PIN_ARRAY_4x1
+Cd Double rangee de contacts 2 x 5 pins
+Kw CONN
+$EndMODULE
+#
+$MODULE PIN_ARRAY_10x1
+Li PIN_ARRAY_10x1
+Cd Double rangee de contacts 2 x 5 pins
+Kw CONN
+$EndMODULE
+#
+$MODULE PIN_ARRAY_7x1
+Li PIN_ARRAY_7x1
+Cd Double rangee de contacts 2 x 5 pins
+Kw CONN
+$EndMODULE
+#
+$MODULE PIN_ARRAY_8x1
+Li PIN_ARRAY_8x1
+Cd Double rangee de contacts 2 x 5 pins
+Kw CONN
+$EndMODULE
+#
+$MODULE 1_pin
+Li 1_pin
+Cd module 1 pin (ou trou mecanique de percage)
+Kw DEV
+$EndMODULE
+#
+$EndLIBDOC

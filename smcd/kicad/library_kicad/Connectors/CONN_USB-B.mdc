@@ -1,0 +1,9 @@
+PCBNEW-LibDoc----V1  4/3/2009-12:37:09
+#
+$MODULE CONN_USB-B
+Li CONN_USB-B
+Cd Connecteur USB type B
+Kw USB
+$EndMODULE
+#
+$EndLIBDOC

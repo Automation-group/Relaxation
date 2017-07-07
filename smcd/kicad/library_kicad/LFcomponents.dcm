@@ -1,0 +1,48 @@
+EESchema-DOCLIB  Version 2.0  Date: Срд 17 Ноя 2010 18:17:37
+#
+$CMP 74HC245
+D Octal BUS Transceivers, 3 State out
+K HCMOS BUS 3State
+$ENDCMP
+#
+$CMP MOTOR
+D Ampli Op 3 state out
+K AmpliOp
+F AmpliOp.sch
+$ENDCMP
+#
+$CMP OIP-12
+D Ampli Op 3 state out
+K AmpliOp
+F AmpliOp.sch
+$ENDCMP
+#
+$CMP optopara
+D Ampli Op 3 state out
+K AmpliOp
+F AmpliOp.sch
+$ENDCMP
+#
+$CMP PROTECTOR
+D Ampli Op 3 state out
+K AmpliOp
+F AmpliOp.sch
+$ENDCMP
+#
+$CMP PVN012
+D Octal BUS Transceivers, 3 State out
+K TTL BUS 3State
+$ENDCMP
+#
+$CMP SN74LVC8T245
+D Octal BUS Transceivers, 3 State out
+K TTL BUS 3State
+$ENDCMP
+#
+$CMP ОЭП-12
+D Ampli Op 3 state out
+K AmpliOp
+F AmpliOp.sch
+$ENDCMP
+#
+#End Doc Library

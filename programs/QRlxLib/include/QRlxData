@@ -1,0 +1,6 @@
+#ifndef QRLXDATA_
+#define QRLXDATA_
+
+#include "../src/QRlxData.h"
+
+#endif /*QRLXDATA_*/

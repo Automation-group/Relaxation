@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0  Date: 18/9/2008-14:24:02
+#
+$CMP AD620BN
+D Ampli Op 3 state out
+K AmpliOp
+F AmpliOp.sch
+$ENDCMP
+#
+$CMP OPO7CP
+D Ampli Op 3 state out
+K AmpliOp
+F AmpliOp.sch
+$ENDCMP
+#
+$CMP opto
+D Ampli Op 3 state out
+K AmpliOp
+F AmpliOp.sch
+$ENDCMP
+#
+#End Doc Library

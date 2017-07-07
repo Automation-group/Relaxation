@@ -1,0 +1,96 @@
+Determining if the Q_WS_WIN exist failed with the following output:
+Change Dir: /home/dnvetrov/mercurial/ag/ag/ag/Relaxation/trunk/programs/SMDTest/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec2992906193/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec2992906193.dir/build.make CMakeFiles/cmTryCompileExec2992906193.dir/build
+make[1]: Вход в каталог `/home/dnvetrov/mercurial/ag/ag/ag/Relaxation/trunk/programs/SMDTest/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/dnvetrov/mercurial/ag/ag/ag/Relaxation/trunk/programs/SMDTest/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec2992906193.dir/CheckSymbolExists.cxx.o
+/usr/bin/c++    -I/usr/include/qt4    -o CMakeFiles/cmTryCompileExec2992906193.dir/CheckSymbolExists.cxx.o -c /home/dnvetrov/mercurial/ag/ag/ag/Relaxation/trunk/programs/SMDTest/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx
+/home/dnvetrov/mercurial/ag/ag/ag/Relaxation/trunk/programs/SMDTest/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx: In function ‘int main(int, char**)’:
+/home/dnvetrov/mercurial/ag/ag/ag/Relaxation/trunk/programs/SMDTest/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:8:19: error: ‘Q_WS_WIN’ was not declared in this scope
+   return ((int*)(&Q_WS_WIN))[argc];
+                   ^
+make[1]: *** [CMakeFiles/cmTryCompileExec2992906193.dir/CheckSymbolExists.cxx.o] Ошибка 1
+make[1]: Выход из каталога `/home/dnvetrov/mercurial/ag/ag/ag/Relaxation/trunk/programs/SMDTest/CMakeFiles/CMakeTmp'
+make: *** [cmTryCompileExec2992906193/fast] Ошибка 2
+
+File /home/dnvetrov/mercurial/ag/ag/ag/Relaxation/trunk/programs/SMDTest/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:
+/* */
+#include <QtCore/qglobal.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef Q_WS_WIN
+  return ((int*)(&Q_WS_WIN))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the Q_WS_QWS exist failed with the following output:
+Change Dir: /home/dnvetrov/mercurial/ag/ag/ag/Relaxation/trunk/programs/SMDTest/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec10685845/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec10685845.dir/build.make CMakeFiles/cmTryCompileExec10685845.dir/build
+make[1]: Вход в каталог `/home/dnvetrov/mercurial/ag/ag/ag/Relaxation/trunk/programs/SMDTest/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/dnvetrov/mercurial/ag/ag/ag/Relaxation/trunk/programs/SMDTest/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec10685845.dir/CheckSymbolExists.cxx.o
+/usr/bin/c++    -I/usr/include/qt4    -o CMakeFiles/cmTryCompileExec10685845.dir/CheckSymbolExists.cxx.o -c /home/dnvetrov/mercurial/ag/ag/ag/Relaxation/trunk/programs/SMDTest/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx
+/home/dnvetrov/mercurial/ag/ag/ag/Relaxation/trunk/programs/SMDTest/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx: In function ‘int main(int, char**)’:
+/home/dnvetrov/mercurial/ag/ag/ag/Relaxation/trunk/programs/SMDTest/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:8:19: error: ‘Q_WS_QWS’ was not declared in this scope
+   return ((int*)(&Q_WS_QWS))[argc];
+                   ^
+make[1]: *** [CMakeFiles/cmTryCompileExec10685845.dir/CheckSymbolExists.cxx.o] Ошибка 1
+make[1]: Выход из каталога `/home/dnvetrov/mercurial/ag/ag/ag/Relaxation/trunk/programs/SMDTest/CMakeFiles/CMakeTmp'
+make: *** [cmTryCompileExec10685845/fast] Ошибка 2
+
+File /home/dnvetrov/mercurial/ag/ag/ag/Relaxation/trunk/programs/SMDTest/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:
+/* */
+#include <QtCore/qglobal.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef Q_WS_QWS
+  return ((int*)(&Q_WS_QWS))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the Q_WS_MAC exist failed with the following output:
+Change Dir: /home/dnvetrov/mercurial/ag/ag/ag/Relaxation/trunk/programs/SMDTest/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec1233480863/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec1233480863.dir/build.make CMakeFiles/cmTryCompileExec1233480863.dir/build
+make[1]: Вход в каталог `/home/dnvetrov/mercurial/ag/ag/ag/Relaxation/trunk/programs/SMDTest/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/dnvetrov/mercurial/ag/ag/ag/Relaxation/trunk/programs/SMDTest/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec1233480863.dir/CheckSymbolExists.cxx.o
+/usr/bin/c++    -I/usr/include/qt4    -o CMakeFiles/cmTryCompileExec1233480863.dir/CheckSymbolExists.cxx.o -c /home/dnvetrov/mercurial/ag/ag/ag/Relaxation/trunk/programs/SMDTest/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx
+/home/dnvetrov/mercurial/ag/ag/ag/Relaxation/trunk/programs/SMDTest/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx: In function ‘int main(int, char**)’:
+/home/dnvetrov/mercurial/ag/ag/ag/Relaxation/trunk/programs/SMDTest/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:8:19: error: ‘Q_WS_MAC’ was not declared in this scope
+   return ((int*)(&Q_WS_MAC))[argc];
+                   ^
+make[1]: Выход из каталога `/home/dnvetrov/mercurial/ag/ag/ag/Relaxation/trunk/programs/SMDTest/CMakeFiles/CMakeTmp'
+make[1]: *** [CMakeFiles/cmTryCompileExec1233480863.dir/CheckSymbolExists.cxx.o] Ошибка 1
+make: *** [cmTryCompileExec1233480863/fast] Ошибка 2
+
+File /home/dnvetrov/mercurial/ag/ag/ag/Relaxation/trunk/programs/SMDTest/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:
+/* */
+#include <QtCore/qglobal.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef Q_WS_MAC
+  return ((int*)(&Q_WS_MAC))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+

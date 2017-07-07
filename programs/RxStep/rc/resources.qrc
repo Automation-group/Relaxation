@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="Images" >
+    <file>b_up.svg</file>
+    <file>b_stop.svg</file>
+    <file>b_down.svg</file>
+  </qresource>
+</RCC>

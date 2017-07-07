@@ -1,0 +1,16 @@
+-I/home/dnvetrov/mercurial/ag/ag/ag/Relaxation/trunk/programs/qlfdevices/src
+-I/usr/include/qt4
+-I/usr/include/qt4/QtGui
+-I/usr/include/qt4/QtCore
+-I/home/dnvetrov/mercurial/ag/ag/ag/Relaxation/trunk/programs/qlfdevices/src
+-I/home/dnvetrov/mercurial/ag/ag/ag/Relaxation/trunk/programs/qextserialport/src
+-DQT_NO_DEBUG
+-DQT_GUI_LIB
+-DQT_CORE_LIB
+-D_TTY_POSIX_
+-DQT_PLUGIN
+-DQT_NO_DEBUG
+-DQT_SHARED
+-o
+/home/dnvetrov/mercurial/ag/ag/ag/Relaxation/trunk/programs/SMDTest/src/moc_MainDlg.cxx
+/home/dnvetrov/mercurial/ag/ag/ag/Relaxation/trunk/programs/SMDTest/src/MainDlg.h

@@ -1,0 +1,346 @@
+Cmp-Mod V01 Created by CvPCB (2010-09-07 BZR 2479)-unstable date = Срд 01 Дек 2010 16:27:34
+
+BeginCmp
+TimeStamp = /4CE3F8DF;
+Reference = C1;
+ValeurCmp = 0.22мк;
+IdModule  = SMD0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CE3E694;
+Reference = C2;
+ValeurCmp = 0.1мк;
+IdModule  = SMD0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CE3E6DA;
+Reference = C3;
+ValeurCmp = 0.1мк;
+IdModule  = SMD0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CE3E4BF;
+Reference = C4;
+ValeurCmp = 0.1мк;
+IdModule  = SMD0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CE3E602;
+Reference = C5;
+ValeurCmp = 0.1мк;
+IdModule  = SMD0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CE3F5A5;
+Reference = C6;
+ValeurCmp = 100мк_10В;
+IdModule  = CASE_C;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CE3F5DE;
+Reference = C7;
+ValeurCmp = 100мк_10В;
+IdModule  = CASE_C;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CE3F88F;
+Reference = C8;
+ValeurCmp = 100мк_10В;
+IdModule  = CASE_C;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CE3F61B;
+Reference = C9;
+ValeurCmp = 0.1мк;
+IdModule  = SMD0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CE3F644;
+Reference = C10;
+ValeurCmp = 0.1мк;
+IdModule  = SMD0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CE3F881;
+Reference = C11;
+ValeurCmp = 0.1мк;
+IdModule  = SMD0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CE3EB53;
+Reference = C12;
+ValeurCmp = 0.1мк;
+IdModule  = SMD0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CE3EB59;
+Reference = C13;
+ValeurCmp = 0.1мк;
+IdModule  = SMD0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CE40551;
+Reference = C14;
+ValeurCmp = 22п;
+IdModule  = SMD0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CE40563;
+Reference = C15;
+ValeurCmp = 22п;
+IdModule  = SMD0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CF3AF9A;
+Reference = C16;
+ValeurCmp = 0.1мк;
+IdModule  = SMD0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CF3AFD2;
+Reference = C17;
+ValeurCmp = 0.1мк;
+IdModule  = SMD0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CF3AFD7;
+Reference = C18;
+ValeurCmp = 0.1мк;
+IdModule  = SMD0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CF4F439;
+Reference = C19;
+ValeurCmp = 0.1мк;
+IdModule  = SMD0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CF4F4C6;
+Reference = C20;
+ValeurCmp = 22мк_10В;
+IdModule  = CASE_B;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CF4F4C5;
+Reference = C21;
+ValeurCmp = 0.1мк;
+IdModule  = SMD0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CE3F21D;
+Reference = DA1;
+ValeurCmp = P10LU-0505ZLF;
+IdModule  = P10LU-0515ZLF;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CE3F49F;
+Reference = DA2;
+ValeurCmp = ADP3050-3.3;
+IdModule  = SOIC8;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CE2AA57;
+Reference = DD1;
+ValeurCmp = ATMEGA168-20AU;
+IdModule  = TQFP32_case;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CE2B37B;
+Reference = DD2;
+ValeurCmp = FT232RL;
+IdModule  = TSOP28;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CE3D9AC;
+Reference = DD3;
+ValeurCmp = ADUM1201;
+IdModule  = SOIC8;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CE3F873;
+Reference = L1;
+ValeurCmp = 33мкГн;
+IdModule  = SDR0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CE3F87D;
+Reference = R1;
+ValeurCmp = 3.9к;
+IdModule  = SMD0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CE3E91A;
+Reference = R2;
+ValeurCmp = 1к;
+IdModule  = SMD0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CE3EC22;
+Reference = R3;
+ValeurCmp = 47;
+IdModule  = SMD0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CE3E938;
+Reference = R4;
+ValeurCmp = 1к;
+IdModule  = SMD0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CE3F07D;
+Reference = R5;
+ValeurCmp = 47;
+IdModule  = SMD0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CE4075A;
+Reference = R6;
+ValeurCmp = 1к;
+IdModule  = SMD0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CE4077B;
+Reference = R7;
+ValeurCmp = 1к;
+IdModule  = SMD0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CE689D3;
+Reference = S1;
+ValeurCmp = DTSGL-61K;
+IdModule  = SWD_BUTTON;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CE3F843;
+Reference = VD1;
+ValeurCmp = SC36A;
+IdModule  = SMA;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CE3F84A;
+Reference = VD2;
+ValeurCmp = BAS216;
+IdModule  = SOD110;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CE3E8BF;
+Reference = VD3;
+ValeurCmp = ~;
+IdModule  = LED1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CE3E87E;
+Reference = VD4;
+ValeurCmp = ~;
+IdModule  = LED1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CE3ED70;
+Reference = X1;
+ValeurCmp = USB;
+IdModule  = USB_B;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CE3FBCA;
+Reference = XP1;
+ValeurCmp = PLS-3;
+IdModule  = SIL-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CE3ED07;
+Reference = XP2;
+ValeurCmp = PLD-6;
+IdModule  = pin_array_3x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CE408A1;
+Reference = XS1;
+ValeurCmp = PBS-8;
+IdModule  = SIL-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CE40899;
+Reference = XS2;
+ValeurCmp = PBS-6;
+IdModule  = SIL-6;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CE408A9;
+Reference = XS3;
+ValeurCmp = PBS-8;
+IdModule  = SIL-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CE408AA;
+Reference = XS4;
+ValeurCmp = PBS-6;
+IdModule  = SIL-6;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CF3A313;
+Reference = XSJG1;
+ValeurCmp = XSJG;
+IdModule  = 1_pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CF3A321;
+Reference = XSJG2;
+ValeurCmp = XSJG;
+IdModule  = 1_pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CE404D6;
+Reference = Z1;
+ValeurCmp = 16МГц;
+IdModule  = VALVE-GLIMM;
+EndCmp
+
+EndListe

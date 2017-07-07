@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+7cd211d96b44f63a14a52c4a331ec011 src/moc_MainDlg.cxx
+b27a0bf6cc166f9a7e4e1b9fc17c659a ui_mainDlg.h

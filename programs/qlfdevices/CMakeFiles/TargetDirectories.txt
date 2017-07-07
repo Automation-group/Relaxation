@@ -1,0 +1,1 @@
+/home/dnvetrov/mercurial/ag/ag/ag/Relaxation/trunk/programs/qlfdevices/CMakeFiles/qlfdevices.dir
